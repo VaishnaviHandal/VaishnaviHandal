@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Handal</h1>
 <h3 align="center">I’m a Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=99adi-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="99adi-jadhav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=99adi-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="VaishnaviHandal" /> </p>
 
-- 🌱 I’m currently learning *HTML, CSS, JS, and Angular*
-- 💬 Ask me about *C, Java, MongoDB*
-- 📫 How to reach me *adityasjadhav77@gmail.com*
+- 🌱 I’m currently learning *HTML, CSS, JS, and Reactjs*
+- 💬 Ask me about *C,Python , MongoDB*
+- 📫 How to reach me *handalvaishnavi@gmail.com*
 
 ---
 
 ### 🧑‍💻 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aditya-jadhav-549063249/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/99adi-jadhav)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)](https://www.instagram.com/the_adi_jadhav/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:adityasjadhav77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/vaishnavi-handal-a33557265)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/VaishnaviHandal)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:handalvaishnavi@gmail.com)
 
 ---### 🛠️ Languages and Tools:
 
