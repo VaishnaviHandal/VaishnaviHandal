@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Handal</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b99ff895-9a9d-4a4d-b51f-47afb69a2ab8" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavihandal&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavihandal" /> </p>
 
 - 💬 Ask me about **node.js Python**
